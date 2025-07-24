@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lotuhin
-- 👀 I’m interested in ... AI
-- 🌱 I’m currently learning ... JavaScript
+- Specializing in Javascript 🌐, Python 🐍
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
